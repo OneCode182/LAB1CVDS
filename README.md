@@ -149,3 +149,34 @@ Se volvio a realizar un cambio simultaneo donde volvio a realizar el error
 ### Noveno punto
 
 CONFLICTO SERGIO
+
+Se resolvio con consolva y sus respectivos comandos:
+![img](Screenshots/noveno.png)
+
+
+## Inicio de la tercera parte 
+### Primer punto
+¿Hay una mejor forma de trabajar con git para no tener conflictos?
+
+RTA: Una mejor forma para trabajar y evitar la mayoria de los conflictos es la creacion de ramas lo cual nos evita trabajar sobre la rama principal la cual es main o master dando así una mejor resolucion de conflictos
+
+### Segundo punto
+¿Qué es y como funciona el Pull Request?
+
+RTA: Un Pull Request (PR) es una funcionalidad clave en sistemas de control de versiones como Git que permite colaborar en proyectos de software. Es una forma de notificar a otros desarrolladores que tienes cambios listos para ser revisados e integrados en la rama principal o en cualquier otra rama.
+
+### Tercer punto
+
+Parte Owner
+![img](Screenshots/ramas_ambos.png)
+
+Parte Collaborator
+![img](Screenshots/branch1.png)
+![img](Screenshots/branch11.png)
+
+### Cuarto punto
+Cambio del Collaborator:
+
+Ejemplo de trabajo en la ramana del Collaborator para subir despues el cambio
+
+### QUinto punto
