@@ -166,6 +166,11 @@ RTA: Una mejor forma para trabajar y evitar la mayoria de los conflictos es la c
 RTA: Un Pull Request (PR) es una funcionalidad clave en sistemas de control de versiones como Git que permite colaborar en proyectos de software. Es una forma de notificar a otros desarrolladores que tienes cambios listos para ser revisados e integrados en la rama principal o en cualquier otra rama.
 
 ### Tercer punto
+
+Parte Owner
+![img](Screenshots/ramas_ambos.png)
+
 Parte Collaborator
 ![img](Screenshots/branch1.png)
 ![img](Screenshots/branch11.png)
+
