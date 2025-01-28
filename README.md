@@ -178,5 +178,7 @@ Parte Collaborator
 Cambio del Collaborator:
 
 Ejemplo de trabajo en la ramana del Collaborator para subir despues el cambio y juntar las ramas .
-
+![img](Screenshots/compare.png)
+![img](Screenshots/problema.png)
 ### Quinto punto
+Ya se juntaron las ramas
