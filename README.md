@@ -174,3 +174,12 @@ Parte Collaborator
 ![img](Screenshots/branch1.png)
 ![img](Screenshots/branch11.png)
 
+<<<<<<< HEAD
+=======
+### Cuarto punto
+Cambio del Collaborator:
+
+Ejemplo de trabajo en la ramana del Collaborator para subir despues el cambio
+
+### QUinto punto
+>>>>>>> feature/juanes
