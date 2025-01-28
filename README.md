@@ -177,6 +177,6 @@ Parte Collaborator
 ### Cuarto punto
 Cambio del Collaborator:
 
-Ejemplo de trabajo en la ramana del Collaborator para subir despues el cambio y juntar las ramas 
+Ejemplo de trabajo en la ramana del Collaborator para subir despues el cambio y juntar las ramas .
 
 ### Quinto punto
