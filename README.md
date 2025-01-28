@@ -122,5 +122,8 @@ Se acepto y se unio al repositorio
 Se unio el Collaborator al repositorio y se edita al mismo tiempo
 
 ### Sexto punto
-AL editar al mismo tiempo paso que 
+AL editar al mismo tiempo paso que al Collaborator se le subieron los cambios:
+![image](Screenshots/Juanes.png)
+Mientras que al Owner le saco un error:
+
 Edición Collaborator: Edición secundaria
