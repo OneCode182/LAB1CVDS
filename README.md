@@ -141,3 +141,9 @@ git merge --abort
 ```
 
 Y con ese comando, se soluciono el problema
+
+### OCtavo punto
+Se volvio a realizar un cambio simultaneo donde volvio a realizar el error
+![img](Screenshots/error.png)
+
+### Noveno punto
