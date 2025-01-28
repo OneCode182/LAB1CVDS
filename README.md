@@ -141,3 +141,6 @@ git merge --abort
 ```
 
 Y con ese comando, se soluciono el problema
+
+
+CONFLICTO SERGIO
