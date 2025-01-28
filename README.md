@@ -181,4 +181,4 @@ Ejemplo de trabajo en la ramana del Collaborator para subir despues el cambio y 
 ![img](Screenshots/compare.png)
 ![img](Screenshots/problema.png)
 ### Quinto punto
-Ya se juntaron las ramas
+Ya se juntaron las ramas de ambos 
