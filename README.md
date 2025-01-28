@@ -174,11 +174,9 @@ Parte Collaborator
 ![img](Screenshots/branch1.png)
 ![img](Screenshots/branch11.png)
 
-### Cuarto punto
-Cambio del Collaborator:
 
 Ejemplo de trabajo en la ramana del Collaborator para subir despues el cambio y juntar las ramas .
 ![img](Screenshots/compare.png)
 ![img](Screenshots/problema.png)
 ### Quinto punto
-Ya se juntaron las ramas de ambos 
+Ya se juntaron las ramas
