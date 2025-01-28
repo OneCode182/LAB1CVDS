@@ -1,4 +1,4 @@
-# CVDS G01 Laboratorio #1 INTRODUCCION A GIT
+# CVDS G03 Laboratorio #1 INTRODUCCION A GIT
 
 ### Integrantes
 - Sergio Andrey Silva
@@ -16,7 +16,7 @@ Se usa *Shift + Clic Derecho*, y en la opcion de la terminal Bash de Git (Git Ba
 
 ![image](Screenshots/screen1.png)
 
-A continuacion se crea la carpeta llamada Lab1CVDS, luego se entra alli, y se inicializa el repositorio local con el comando: 
+A continuacion se crea la carpeta llamada `Lab1CVDS`, luego se entra alli, y se inicializa el repositorio local con el comando: 
 
 ```
 git init
@@ -71,8 +71,32 @@ Hice la configuracion y vincule mi correo institucional *sergio.silva-r@mail.esc
 
 ### 6. Configura el repositorio local con el repositorio remoto.
 
-Para realizar la vinculacion, se usa la sintaxis
+Para realizar la vinculacion, se usa el comando
 
 ```
 git remote add origin "LINK"
 ```
+
+
+### 7. Sube los cambios, teniendo en cuenta lo que averiguaste en el punto3
+
+
+### 8. Configura el correo en git local de manera correcta
+
+Para configurar el nombre:
+
+```
+git config --global user.name "NAME"
+```
+
+Para configurar el correo:
+
+```
+git config --global user.email "EMAIL"
+```
+
+Verificando la configuracion:
+
+![img](Screenshots/screen5.png)
+
+### 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
