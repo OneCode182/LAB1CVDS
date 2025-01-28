@@ -123,3 +123,5 @@ Se unio el Collaborator al repositorio y se edita al mismo tiempo
 
 ### Sexto punto
 AL editar al mismo tiempo paso que 
+
+PARTE SERGIO 
