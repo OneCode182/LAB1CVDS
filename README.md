@@ -122,11 +122,22 @@ Se acepto y se unio al repositorio
 Se unio el Collaborator al repositorio y se edita al mismo tiempo
 
 ### Sexto punto
-AL editar al mismo tiempo paso que al Collaborator se le subieron los cambios:
-![image](Screenshots/Juanes.png)
+AL editar al mismo tiempo paso que 
 
-Mientras que al Owner le saco un error:
-![image](Screenshots/screen6.png)
-Edición Collaborator: Edición secundaria (prueba inicial que si se subio este cambio)
+### Septimo punto
+Hubo conflicto al subir cambios al tiempo entre el *Owner* y el *Collaborator*, git detecto cambios inusuales y por ende creo una rama aparte de main.
 
-### septimo punto
+- RAMA EN CONSOLA: Main\MERGING
+
+#### Como se soluciono?
+Se hizo un `git status` para ver el estado del repositorio, a lo cual mostro lo siguiente:
+
+![img](Screenshots/screen7.png)
+
+El motor de git recomenda hacer:
+
+```
+git merge --abort
+```
+
+Y con ese comando, se soluciono el problema
