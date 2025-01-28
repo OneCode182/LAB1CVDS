@@ -109,14 +109,14 @@ Collaborator: Juan Lozano
 
 ### Segundo punto
 EL owner realizo la incitación que se acepto.
-![image](img/Aceptacion.png)
+![image](Screenshots/Aceptacion.png)
 
 ### Tercer punto
 Se acepto la incitación por correo
 
 ### Cuato punto
 Se acepto y se unio al repositorio
-![image](img/aceptacionrepo.png)
+![image](Screenshots/aceptacionrepo.png)
 
 ### Quinto punto
 Se unio el Collaborator al repositorio y se edita al mismo tiempo
