@@ -1,12 +1,17 @@
 # CVDS G03 Laboratorio #1 INTRODUCCION A GIT
 
 ### Integrantes
-- Sergio Andrey Silva
-- Juan Esteban Lozano 
+- Sergio Andrey Silva (Owner)
+- Juan Esteban Lozano (Collaborator)
 
 
 ### Respuestas
 ## PARTE I (Trabajo Individual). 
+
+## Parte del Collaborator
+[Parte individual collaborator](https://github.com/juanLozano-2004/Lab1.git)
+
+## Parte individual owner
 
 ### 1. Crea un repositorio localmente.
 
@@ -119,10 +124,10 @@ Se acepto y se unio al repositorio
 ![image](Screenshots/aceptacionrepo.png)
 
 ### Quinto punto
-Se unio el Collaborator al repositorio y se edita al mismo tiempo
+Se unio el Collaborator al repositorio y se edita al mismo tiempo pero la parte editada del owner se rechazo
 
 ### Sexto punto
-AL editar al mismo tiempo paso que 
+AL editar al mismo tiempo paso que se acepto unicamente un cambio y el otro se rechazo, por lo cual se debe de realziar una correccción para arreglar el error
 
 ### Septimo punto
 Hubo conflicto al subir cambios al tiempo entre el *Owner* y el *Collaborator*, git detecto cambios inusuales y por ende creo una rama aparte de main.
@@ -188,4 +193,4 @@ Ejemplo de trabajo en la ramana del Collaborator para subir despues el cambio y 
 ![img](Screenshots/problema.png)
 ### Quinto punto
 Ya se juntaron las ramas
->>>>>>> feature/juanes
+![img](Screenshots/ultimo.png)
